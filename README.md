@@ -1,3 +1,4 @@
 # ReadMe 입니다. 
-ddd
-## ssd
+ 
+## Python TIL 
+[PYTHON REPO](https://github.com/eclipse-addict/TIL2/tree/master/python)
